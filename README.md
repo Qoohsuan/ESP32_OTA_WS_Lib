@@ -150,6 +150,6 @@ void setColor(uint8_t r, uint8_t g, uint8_t b);
 
 ## 联系方式
 
-MrQ - your.email@example.com
+MrQ - mike7830705@gmail.com
 
 项目链接: [https://github.com/QooHsuan/ESP32_OTA_WS_Lib](https://github.com/QooHsuan/ESP32_OTA_WS_Lib)
